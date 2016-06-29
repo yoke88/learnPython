@@ -2,10 +2,12 @@
 Python 101 classroom
 ===============================================================================
 
-http://www.rexx.com/~dkuhlman/python_101/python_101.html
+https://github.com/JeanBilheux/python_101
+http://www.davekuhlman.org/python_101.html
 
 
 learning python the hard way
 ===============================================================================
 
 http://learnpythonthehardway.org/book
+
